@@ -1,11 +1,11 @@
 #Kevin
-#IndoSec
+#kevin ganteng
 
 import time, re, sys
 from requests import Session
 s = Session()
 
-print("Spam Call by Kevin - Kontol\nThis tool delays 5 seconds per spam so as not to limit!\nUse Country Code (ex: 62xxxx99)")
+print("Spam Call by Kevin - love-Memek\nThis tool delays 5 seconds per spam so as not to limit!\nFollow ig : @ReinSakitHati\nUse Country Code (ex: 62xxx99)")
 try:
 	no = int(input("No    : "))
 	jml = int(input("Count : "))
@@ -41,5 +41,5 @@ try:
 			print("\n\t* Try one hour ago or try tomorrow *")
 			break
 except:
-	print("\n\t* ERROR *")
+	print("\n\t* ERROR SAYANG *")
 	sys.exit()
