@@ -1,6 +1,6 @@
 # Spam Call Unlimited
 ![image](https://pelajarindo.com/wp-content/uploads/2021/08/Nekopoi.care-Download-apk1.jpg)
-Spam Call Unlimited Terbaru menggunakan bahasa pemrograman python
+
 
 ## Cara Install
 ```
